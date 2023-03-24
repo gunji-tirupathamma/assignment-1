@@ -106,3 +106,10 @@ Content-Type: application/json
 { 
     "priority": "HIGH"
  }
+
+###
+
+//API-6
+
+DELETE  http://localhost:3000/todos/7/
+Content-Type: application/json
